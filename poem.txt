@@ -1,0 +1,3 @@
+Git haiku to you
+through version control system
+makes your code happy 
